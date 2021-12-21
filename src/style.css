@@ -1,0 +1,23 @@
+table.tareas tr th, table.tareas tr td{
+    
+    border:1px solid black;
+    text-align: center;
+    font-weight: bold;
+}
+table.tareas{
+    border-collapse: collapse;
+    width: 90%;
+    background-color: whitesmoke;
+    margin:auto;
+    margin-bottom: 10px;
+}
+.TituloResult{
+    text-align: center;
+}
+tr:hover {
+    background-color: gray;
+}
+.ocultar_input{
+    border:none;
+   
+}
