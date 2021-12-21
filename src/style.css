@@ -1,0 +1,11 @@
+table, th, td, h3
+{
+    margin: auto;
+    border: rgb(195, 253, 234) 2px solid;
+    border-collapse: collapse;
+    background-color: rgb(235, 253, 247);
+}
+caption, .inf
+{
+    font-weight: bolder;
+}
